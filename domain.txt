@@ -2490,8 +2490,8 @@ https://dnserror-cdw.pages.dev/
 https://dns-me.pages.dev/
 https://pea.owqgo.cc/
 http://156.244.28.153/17ABE7F017ABE7F0
-rtmp://101.37.81.24/test
-ws://8.219.85.91:8888/push-streaming?id=1234
+8.219.85.91:8888/push-streaming?id=1234
+101.37.81.24/test
 siet.py
 sophos-upd-srv.info
 filetransfer.io
